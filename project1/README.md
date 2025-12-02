@@ -36,8 +36,7 @@ The project is organized into the following folders:
 👉 Access:  
 - [BPMN Model](docs/BPMN.pdf)  
 - [UCD Document](docs/UCD.pdf)  
-- [Use Case Diagram](docs/UC.pdf)  
-- [Use Case Table](docs/UCD_table.pdf) *(if available)*  
+- [Use Case Diagram](docs/UC.pdf)   
 - [Class Diagram](docs/class.pdf)  
 
 ---

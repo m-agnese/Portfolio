@@ -11,6 +11,13 @@ It includes BPMN modeling, Use Case analysis, Class diagrams, mockups, and a cos
 
 ---
 
+## 📁 Accounting & Corporate Systems — Project  
+A corporate accounting project developed during the **Accounting & Corporate Systems** course.  
+The deliverable is a single report in PDF format.  
+👉 **[Open project folder](project2/README.md)**
+
+---
+
 ## 📬 Contact  
 **Email:** martina.agnese@yahoo.it  
 **LinkedIn:** https://www.linkedin.com/in/martinaagnese  

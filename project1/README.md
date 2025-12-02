@@ -44,9 +44,9 @@ The project is organized into the following folders:
 ### **`/mockups` — Interface Prototypes**
 Contains 2–3 mockups designed to visualize key system interfaces:
 
-- [Mockup 1](mockups/mockup1.pdf)  
-- [Mockup 2](mockups/mockup2.pdf)  
-- [Mockup 3](mockups/mockup3.pdf)  
+- [Mockup 1](mockups/Mockup1.pdf)  
+- [Mockup 2](mockups/Mockup2.pdf)  
+- [Mockup 3](mockups/Mockup3.pdf)  
 
 ---
 

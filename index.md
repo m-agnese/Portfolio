@@ -26,7 +26,7 @@ Industrial plant design and analysis: includes plant computations, layout schema
 Quality engineering project with consumer survey data, quality analyses (FMECA, House of Quality), and final report.  
 👉 **[Open project folder](project5/README.md)**
 
-### 📄 Quality Engineering — Project  
+### 📄 Strategy and Organization — Project  
 Strategic and organizational analysis project with structured report.
 👉 **[Open project folder](project6/README.md)**
 

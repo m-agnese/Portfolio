@@ -1,0 +1,21 @@
+# Data processing
+pandas>=1.3
+numpy>=1.21
+openpyxl>=3.0  # necessario per leggere/scrivere file Excel
+
+# Machine Learning
+scikit-learn>=1.0
+xgboost>=1.7
+
+# Hyperparameter tuning
+optuna>=3.0
+
+# Explainable AI
+shap>=0.42
+
+# Miscellaneous
+matplotlib>=3.5
+joblib>=1.2
+
+# Optional tool used in preprocessing
+ace-tools>=1.0  # se disponibile; opzionale

@@ -48,20 +48,20 @@ All project artifacts and documentation files can be found in the respective fol
 ### 📂 `/docs` — System Documentation & Diagrams
 | Artifact | Description | Access Link (Internal) |
 | :--- | :--- | :--- |
-| BPMN Process Model | Full process flow diagram for key business transactions. | [View BPMN Model](docs/BPMN%20Model) |
-| Use Case Documentation | Diagram and textual descriptions detailing all functional requirements. | [View Use Case Diagram](docs/Use%20Case%20Diagram) |
-| Class Diagram | Detailed UML diagram showing system classes, attributes, and relationships. | [View Class Diagram](docs/Class%20Diagram) |
-| UCD Document | Document outlining user profiles, interaction flow, and design rationale. | [View UCD Document](docs/UCD%20Document) |
+| BPMN Process Model | Full process flow diagram for key business transactions. | [View BPMN Model](https://github.com/m-agnese/Portfolio/blob/main/Ethical%20Marketplace%20System/docs/BPMN.pdf) |
+| Use Case Documentation | Diagram and textual descriptions detailing all functional requirements. | [View Use Case Diagram](https://github.com/m-agnese/Portfolio/blob/main/Ethical%20Marketplace%20System/docs/UC.pdf) |
+| Class Diagram | Detailed UML diagram showing system classes, attributes, and relationships. | [View Class Diagram](https://github.com/m-agnese/Portfolio/blob/main/Ethical%20Marketplace%20System/docs/class.pdf) |
+| UCD Document | Document outlining user profiles, interaction flow, and design rationale. | [View UCD Document](https://github.com/m-agnese/Portfolio/blob/main/Ethical%20Marketplace%20System/docs/UCD.pdf) |
 
 ### 🖼️ `/mockups` — Interface Prototypes
 Contains visual prototypes designed to showcase the main interfaces for the customer, farmer, and admin roles.
 
-* [Mockup 1 (Customer Shop)](mockups/Mockup%201)
-* [Mockup 2 (Farmer Dashboard)](mockups/Mockup%202)
-* [Mockup 3 (Admin Panel)](mockups/Mockup%203)
+* [Mockup 1 (Customer Shop)](https://github.com/m-agnese/Portfolio/blob/main/Ethical%20Marketplace%20System/mockups/Mockup1.pdf)
+* [Mockup 2 (Farmer Dashboard)](https://github.com/m-agnese/Portfolio/blob/main/Ethical%20Marketplace%20System/mockups/Mockup2.pdf)
+* [Mockup 3 (Admin Panel)](https://github.com/m-agnese/Portfolio/blob/main/Ethical%20Marketplace%20System/mockups/Mockup3.pdf)
 
 ### 📈 `/reports` — Cost & Resources
-* [Cost Estimation Spreadsheet](reports/Cost%20Estimation%20Spreadsheet): A detailed breakdown of estimated implementation costs and required resources.
+* [Cost Estimation Spreadsheet](https://github.com/m-agnese/Portfolio/blob/main/Ethical%20Marketplace%20System/reports/Project_cost.xlsx): A detailed breakdown of estimated implementation costs and required resources.
 
 ---
 
